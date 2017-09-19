@@ -14,6 +14,8 @@ public class Produto {
 		this.descricao = descricao;
 		this.preco = preco;
 	}
+	public Produto(){
+	}
 
 
 public void setNome(String nome)
